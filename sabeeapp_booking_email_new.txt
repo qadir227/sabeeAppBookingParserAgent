@@ -1,0 +1,30 @@
+logo
+Our site      Contact us
+
+Dear Le Bijou Hotel & Resort Management AG,
+A new reservation was made through Booking.com. Details are as follows
+
+Reservation ID: 32590439
+Reservation Code: 628485F
+Channel ID: 4972985331
+
+Room Information
+Property Name: Le Bijou Hotel & Resort Management AG
+Arrival Date: 2025-07-09
+Departure Date: 2025-07-10
+Room type: Airhome12 (id=164448001, object=Apartment Split-Level, Airhome12, street=Löwenstrasse 14, city=Lucerne, qid=airhomeCHLU1)
+Rate plan: Refundable rates
+Guests: 5
+Guest name: kjdhukjhn jfdilj
+Comments: Smoking people: NoPayment collect by: Property
+
+Price Information
+Room Name: Airhome12 - Top City Centre Location near Casino
+Price: 1,239.60
+Arrival Date: 2025-07-09
+Departure Date: 2025-07-10
+Nights: 1
+
+Check reservation in Sabeeapp: https://chm.sabeeapp.com/reservations?resid=32590439
+Kind regards,
+SabeeApp Team

@@ -1,0 +1,19 @@
+logo
+
+Dear Le Bijou Hotel & Resort Management AG,
+The following reservation has been modified according to the modification made by your guest on Booking.com.
+
+Property Name: Le Bijou Hotel & Resort Management AG
+ResID: 32590439
+ResCode: 628485F
+Channel ID: 4972985331
+Room type reserved: Airhome12 (id=164448001, object=Apartment Split-Level, Airhome12, street=Löwenstrasse 14, city=Lucerne, qid=airhomeCHLU1)
+Guest: kjdhukjhn jfdilj
+Arrival Date: 09-07-2025
+Departure Date: 10-07-2025
+Modifications:
+Extra guest name modified, from: kjdhukjhn jfdilj, to: KITTIPHON KIATSURANON ANYA KIATSURANON PONKRIT KIATSURANON PONATHIP KIATSURANON PONTAT KIATSURANON
+
+Visit reservation in Sabee: https://chm.sabeeapp.com/reservations?resid=32590439
+Kind regards,
+SabeeApp Team

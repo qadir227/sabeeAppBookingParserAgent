@@ -1,0 +1,16 @@
+logo
+
+Dear Le Bijou Hotel & Resort Management AG,
+The following reservation has been cancelled by your customer on Booking.com:
+The reservation has been set to cancelled status within SabeeApp.
+
+Property Name: Le Bijou Hotel & Resort Management AG
+ResID: 32590439
+ResCode: 628485F
+Channel ID: 4972985331
+Room type reserved: Airhome12 (id=164448001, object=Apartment Split-Level, Airhome12, street=Löwenstrasse 14, city=Lucerne, qid=airhomeCHLU1)
+Customer: kjdhukjhn jfdilj
+Arrival date: 2025-07-09
+Departure Date: 2025-07-10
+Kind regards,
+SabeeApp Team
