@@ -42,8 +42,11 @@ npm install
 ## File Structure
 
 ```extractSabeeBooking.js``` — Main script that reads email text file and extracts booking info using OpenAI.
+
 ```booking_schema.js``` — JSON schema defining the expected structure of extracted booking data.
+
 ```sabeeapp_booking_email.txt``` — Sample email text file for testing.
+
 ```testExtract.js``` — Example script demonstrating usage.
 
 ## Example Output
