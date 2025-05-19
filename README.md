@@ -30,25 +30,28 @@ It supports **new**, **modified**, and **cancelled** reservation emails by letti
 1. Clone the repository:
 
 git clone https://github.com/qadir227/sabeeAppBookingParserAgent.git
+```
 cd sabeeAppBookingParserAgent
 npm install
+```
 
 2. Replace your OPENAI API KEY in .env file:
 
-OPENAI_API_KEY="YOUR_API_KEY"
+```OPENAI_API_KEY="YOUR_API_KEY"```
 
-File Structure
+## File Structure
 
-extractSabeeBooking.js — Main script that reads email text file and extracts booking info using OpenAI.
+```extractSabeeBooking.js``` — Main script that reads email text file and extracts booking info using OpenAI.
 
-booking_schema.js — JSON schema defining the expected structure of extracted booking data.
+```booking_schema.js``` — JSON schema defining the expected structure of extracted booking data.
 
-sabeeapp_booking_email.txt — Sample email text file for testing.
+```sabeeapp_booking_email.txt``` — Sample email text file for testing.
 
-testExtract.js — Example script demonstrating usage.
+```testExtract.js``` — Example script demonstrating usage.
 
-Example Output
+## Example Output
 
+```
 {
   "reservation_type": "new",
   "res_id": "32638XXX",
@@ -69,3 +72,4 @@ Example Output
   "sabee_url": "https://chm.sabeeapp.com/reservations?resid=32638XXX",
   "payment_info": "Expedia Virtual Card will be activated from the day of Check-in. Payment collected by: Expedia"
 }
+```
